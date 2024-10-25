@@ -1,19 +1,11 @@
-Harmony theme for NodeBB
-====================
+# Default Composer for NodeBB
 
-The Harmony theme is the default theme for NodeBB for versions spanning v3.0.0 onwards.
-
-## Issues
-
-Issues are tracked in [the main project issue tracker](https://github.com/NodeBB/NodeBB/issues?q=is%3Aopen+is%3Aissue+label%3Athemes).
+This plugin activates the default composer for NodeBB. It is activated by default, but can be swapped out as necessary.
 
 ## Screenshots
 
-### Categories
-<img height="450" src="screenshots/categories.png">
+### Desktop
+![Desktop Composer](screenshots/desktop.png?raw=true)
 
-### Recent
-<img height="450" src="screenshots/recent.png">
-
-### Topic
-<img height="450" src="screenshots/topic.png">
+### Mobile Devices
+![Mobile Composer](screenshots/mobile.png?raw=true)
